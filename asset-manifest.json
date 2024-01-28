@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MYportfolio/static/css/main.3466c8bc.css",
+    "main.js": "/MYportfolio/static/js/main.44cbcbcb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MYportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Ansh Kapoor Resume.pdf": "/MYportfolio/static/media/Ansh Kapoor Resume.f438f33804179795048f.pdf",
+    "index.html": "/MYportfolio/index.html",
+    "main.3466c8bc.css.map": "/MYportfolio/static/css/main.3466c8bc.css.map",
+    "main.44cbcbcb.js.map": "/MYportfolio/static/js/main.44cbcbcb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MYportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3466c8bc.css",
+    "static/js/main.44cbcbcb.js"
+  ]
+}
