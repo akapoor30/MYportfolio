@@ -1,5 +1,5 @@
 {
-  "homepage": "https://akapoor30.github.io/myPortfolio",
+  "homepage": "https://akapoor30.github.io/MYportfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
